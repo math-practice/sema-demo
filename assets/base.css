@@ -29,22 +29,22 @@
   font-family: 'Pretendard';
   font-weight: 700;
   font-display: swap;
-  src: url('./pretendard/Pretendard-Bold.woff2') format('woff2'), 
-       url('./pretendard/Pretendard-Bold.woff') format('woff');
+  src: url('../pretendard/Pretendard-Bold.woff2') format('woff2'), 
+       url('../pretendard/Pretendard-Bold.woff') format('woff');
 }
 @font-face {
   font-family: 'Pretendard';
   font-weight: 400;
   font-display: swap;
-  src: url('./pretendard/Pretendard-Medium.woff2') format('woff2'), 
-       url('./pretendard/Pretendard-Medium.woff') format('woff');
+  src: url('../pretendard/Pretendard-Medium.woff2') format('woff2'), 
+       url('../pretendard/Pretendard-Medium.woff') format('woff');
 }
 @font-face {
   font-family: 'Pretendard';
   font-weight: 300;
   font-display: swap;
-  src: url('./pretendard/Pretendard-Regular.woff2') format('woff2'), 
-       url('./pretendard/Pretendard-Regular.woff') format('woff');
+  src: url('../pretendard/Pretendard-Regular.woff2') format('woff2'), 
+       url('../pretendard/Pretendard-Regular.woff') format('woff');
 }
 /*
   1. BASE
